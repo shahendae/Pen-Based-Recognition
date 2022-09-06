@@ -4,6 +4,14 @@ The data is about the recognition of handwritten numbers from 0 to 9. There are 
 
 The link for the dataset http://archive.ics.uci.edu/ml/datasets/pen-based+recognition+of+handwritten+digits <br>
 
-you can find that the dataset tested on 4 different models: MLP, Gradient Boost, Random Forest, and Decision Tree. In addition to, Stacking strategy which improved performance and outperformed the accuracy of the 3 models after improvement.
+T-Distributed Stochastic Neighbouring Entities (t-SNE) Visulaization for the training dataset: 
 
-![image](https://user-images.githubusercontent.com/28704723/188719335-e00fca1e-af85-447a-a764-5b279acfd63e.png)
+![image](images/tsne.jpg)
+
+
+you can find that the dataset tested on 4 different models: MLP, Gradient Boost, Random Forest, and Decision Tree. In addition to, Stacking strategy which improved performance and outperformed the accuracy of the 3 models after improvement. <br>
+To imporove the models performace feature selection was applied and Hyperparameters.
+Best accuracy achieved by stacking and MLP.
+
+
+![image](images/models.jpg)
