@@ -9,8 +9,8 @@ T-Distributed Stochastic Neighbouring Entities (t-SNE) Visulaization for the tra
 ![image](images/tsne.jpg)
 
 
-you can find that the dataset tested on 4 different models: MLP, Gradient Boost, Random Forest, and Decision Tree. In addition to, Stacking strategy which improved performance and outperformed the accuracy of the 3 models after improvement. <br>
-To imporove the models performace feature selection was applied and Hyperparameters.
+The dataset was tested on 4 different models: MLP, Gradient Boost, Random Forest, and Decision Tree. In addition to, Stacking strategy which improved performance and outperformed the accuracy of the 3 models after improvement. <br>
+To imporove the models performace feature selection was applied and Hyperparameters. <br>
 Best accuracy achieved by stacking and MLP.
 
 
